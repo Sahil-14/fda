@@ -13,6 +13,7 @@ This is a React Native mobile application UI for a food delivery service.
     - [npm run build](#npm-run-build)
   - [contribution](#contribution)
   - [Screens](#screens)
+    - [Onboarding Screens](#onboarding-screens)
 
 ## Installation
 
@@ -29,7 +30,8 @@ Before you can run the application, you need to install some dependencies.
 
 1. Clone the repository to your local machine: git clone https://github.com/example/example.git
 2. Change into the project directory:
-3. Install the dependencies: **npm install** 
+3. Install the dependencies:
+  - npm install
 4. If you're using iOS, run the following command to install the iOS dependencies:
   - ### npx pod-install ios
 5. Start the application:
@@ -73,6 +75,13 @@ To contribute to this project, follow the steps below:
 | Sign-out screen       | A screen where users can sign out of their account and return to the sign-in screen.                                                            |
 
 
+
+### Onboarding Screens
+<p align="center">
+  <img src="screenshots/onboarding-1.jpeg" width="200" hspace="20">
+  <img src="screenshots/onboarding-2.jpeg" width="200" hspace="20">
+  <img src="screenshots/onboarding-3.jpeg" width="200">
+</p>
 
 
 
