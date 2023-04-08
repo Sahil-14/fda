@@ -17,6 +17,7 @@ This is a React Native mobile application UI for a food delivery service.
   - [Screens](#screens)
     - [Onboarding Screens](#onboarding-screens)
     - [Registration Screens](#registration-screens)
+    - [OTP verification Screen](#otp-verification-screen)
 
 ## Installation
 
@@ -108,4 +109,10 @@ To contribute to this project, follow the steps below:
   <img src="screenshots/registration-4.jpeg" width="200" hspace="20">
   <img src="screenshots/registration-5.jpeg" width="200" hspace="20">
 
+</p>
+
+### OTP verification Screen
+
+<p align="center">
+  <img src="screenshots/otp.jpeg" width="200" hspace="20">
 </p>
