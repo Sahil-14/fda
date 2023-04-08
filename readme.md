@@ -83,18 +83,18 @@ To contribute to this project, follow the steps below:
 
 ## Screens
 
-| Screen              | Description                                                                                                                       |
-| ------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
-| Onboarding screens  | Welcome screens for new users that guide them through the basic features and benefits of the application.                         |
-| Sign-in screen      | A screen where users can sign in to their accounts or create new accounts.                                                        |
-| OTP verification    | A screen where users can enter the one-time password they receive via SMS or email after signing up.                              |
-| Home screen         | The main screen of the application where users can browse different restaurants and their menus.                                  |
-| Restaurant screen   | A screen that displays detailed information about a specific restaurant, including the menu, reviews, and photos.                 |
-| Cart screen         | A screen where users can view and edit the items they have added to their cart.                                                   |
-| Checkout screen     | A screen where users can confirm their order and enter their payment and delivery details.                                        |
-| Payment screen      | A screen where users can select a payment method and complete their order.                                                        |
-| Order status screen | A screen where users can view the status of their current and past orders, including estimated delivery times and order tracking. |
-| Sign-out screen     | A screen where users can sign out of their account and return to the sign-in screen.                                              |
+| Screen               | Description                                                                                                                       |
+| -------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
+| Onboarding screens   | Welcome screens for new users that guide them through the basic features and benefits of the application.                         |
+| Registration screen  | A screen where users can sign in to their accounts or create new accounts.                                                        |
+| OTP verification     | A screen where users can enter the one-time password they receive via SMS or email after signing up.                              |
+| Home screen          | The main screen of the application where users can browse different restaurants and their menus.                                  |
+| Product screen       | A screen that displays detailed information about a specific product reviews, and photos.                                         |
+| Cart screen          | A screen where users can view and edit the items they have added to their cart.                                                   |
+| Checkout screen      | A screen where users can confirm their order and enter their payment and delivery details.                                        |
+| Payment screen       | A screen where users can select a payment method and complete their order.                                                        |
+| Order status screen  | A screen where users can view the status of their current and past orders, including estimated delivery times and order tracking. |
+| Voice command screen | A screen which contains list of all command for navigation                                                                        |
 
 ### Onboarding Screens
 
