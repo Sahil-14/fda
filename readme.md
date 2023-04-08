@@ -23,6 +23,8 @@ This is a React Native mobile application UI for a food delivery service.
     - [Cart Screen](#cart-screen)
     - [Product Detail Screen](#product-detail-screen)
     - [Payment Screens](#payment-screens)
+    - [Checkout Screens](#checkout-screens)
+    - [Delivary Status Screens](#delivary-status-screens)
 
 ## Installation
 
@@ -161,4 +163,17 @@ To contribute to this project, follow the steps below:
 <p align="center">
   <img src="screenshots/payment-3.jpeg" width="200" hspace="20">
   <img src="screenshots/payment-4.jpeg" width="200" hspace="20">
+</p>
+
+### Checkout Screens
+
+<p align="center">
+  <img src="screenshots/checkout-1.jpeg" width="200" hspace="20">
+  <img src="screenshots/checkout-2.jpeg" width="200" hspace="20">
+</p>
+
+### Delivary Status Screens
+
+<p align="center">
+  <img src="screenshots/delivary-status.jpeg" width="200" hspace="20">
 </p>
