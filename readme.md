@@ -21,6 +21,8 @@ This is a React Native mobile application UI for a food delivery service.
     - [Home Screen](#home-screen)
     - [Voice command Screen](#voice-command-screen)
     - [Cart Screen](#cart-screen)
+    - [Product Detail Screen](#product-detail-screen)
+    - [Payment Screens](#payment-screens)
 
 ## Installation
 
@@ -142,4 +144,21 @@ To contribute to this project, follow the steps below:
   <img src="screenshots/cart-1.jpeg" width="200" hspace="20">
   <img src="screenshots/cart-2.jpeg" width="200" hspace="20">
   <img src="screenshots/cart-3.jpeg" width="200">
+</p>
+
+### Product Detail Screen
+
+<p align="center">
+  <img src="screenshots/product.jpeg" width="200" hspace="20">
+</p>
+
+### Payment Screens
+
+<p align="center">
+  <img src="screenshots/payment-1.jpeg" width="200" hspace="20">
+  <img src="screenshots/payment-2.jpeg" width="200" hspace="20">
+</p>
+<p align="center">
+  <img src="screenshots/payment-3.jpeg" width="200" hspace="20">
+  <img src="screenshots/payment-4.jpeg" width="200" hspace="20">
 </p>
