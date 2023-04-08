@@ -19,6 +19,7 @@ This is a React Native mobile application UI for a food delivery service.
     - [Registration Screens](#registration-screens)
     - [OTP verification Screen](#otp-verification-screen)
     - [Home Screen](#home-screen)
+    - [Voice command Screen](#voice-command-screen)
 
 ## Installation
 
@@ -126,4 +127,10 @@ To contribute to this project, follow the steps below:
 <p align="center">
   <img src="screenshots/home-3.jpeg" width="200" hspace="20">
   <img src="screenshots/home-4.jpeg" width="200" hspace="20">
+</p>
+
+### Voice command Screen
+
+<p align="center">
+  <img src="screenshots/voice.jpeg" width="200" hspace="20">
 </p>
